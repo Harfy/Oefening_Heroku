@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <header>
+    <%- include ("navigation") -%>
+  </header>
+  <body>
+    <h1>Arts and Culture App</h1>
+    <h2>Buddhist art in Myanmar</h2>
+    <h3>Introduction</h3>
+    <p>In the 19th and early 20th centuries, Western scholars viewed Buddhism as an austere, monolithic religion focused upon meditation and nirvana - the escape from the cycles of rebirth.   Such a portrayal ignores the realities of religious systems in Myanmar (Burma), where people combine homage to the Buddha with such activities as spirit worship, making offerings, and divination. People select these rituals according to their personal needs in everyday life, and also to form spiritual pathways to pleasurable rebirths and to help them strive for nirvana.   This exhibition draws on the British Museum’s Myanmar collections to explore how the variety of Buddhist ideas is revealed in lively daily practices. </p>
+    <h3>Cosmology and biography</h3>
+    <p>The Buddhist universe has 31 levels. All beings are reborn in one of these levels as a result of past behaviour. Good actions, such as paying homage to the Buddha, can lead to an individual being reborn on an upper level, conferring high social status, power and eventually supernatural abilities. Anger, ignorance and hatred, however, can result in rebirth in an unpleasant existence, as an animal or ghost, or even in one of the hells. This is the law of cause and effect that governs the universe, and the Buddha’s lives show it in action. In his past lives, the Buddha perfected the ten virtues necessary for enlightenment and in his final life he became an awakened being and exited the cycle of rebirth.   Representations of the cosmos, the life of the Buddha and the Buddha’s previous lives have been popular for over a millennia and can be seen on objects ranging from buildings to popular prints. Commissioning, producing and donating such images are acts of generosity and create merit for the donor, contributing to a good rebirth.</p>
+
+
+    <h2>In the spotlight!</h2>
+    <% let randomNumber = function(min, max) {
+      min = Math.ceil(min);
+      max = Math.floor(max);
+      return Math.floor(Math.random() * (max - min + 1)) + min;
+    };
+      let number = randomNumber(0,12);
+    %>
+    <a href="/detail/<%=number%>"><img src="../<%=artstuff[number].img%>" alt=""></a>
+    <p><%=artstuff[number].description%></p>
+  </body>
+  <%- include ("footer") -%>
+</html>

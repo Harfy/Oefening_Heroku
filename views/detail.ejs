@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="/css/style.css">
+    <title>Museum - Detail</title>
+  </head>
+  <header>
+    <%- include ("navigation") -%>
+  </header>
+  <body>
+    <h2><%=artstuff.name%></h2>
+    <img src="../<%=artstuff.img%>" alt="Picture of <%=artstuff.name%>">
+    <p><%=artstuff.description%></p>
+    <p><span>Type:</span> <%=artstuff.type%></p>
+    <p><span>Date of origin:</span> <%=artstuff.date%></p>
+    <p><span>Materials:</span> <%=artstuff.material%></p>
+    <p><span>Place of origin:</span> <%=artstuff.place%></p>
+  </body>
+  <%- include ("footer") -%>
+</html>

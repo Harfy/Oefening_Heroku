@@ -1,0 +1,147 @@
+{
+  "art": [
+    {
+      "name": "Model stupa with the 28 Buddhas of the Past",
+      "date": "Late 1700 to early 1800s",
+      "sortDate":"late17",
+      "description": "A stupa is a Buddhist structure containing relics that devotees ritually walk around. People commission model stupas to make merit and ensure the maintenance of the religion, resulting in better future rebirths. In the past, there have been countless Buddhas (awakened beings), and in the Burmese tradition, there are 28 named individuals. They are particularly important because during previous lives, Gotama the historical Buddha received a prophecy of his future Buddhahood from each of them.",
+      "type": "Sculpture",
+      "material":"Wood" ,
+      "place": "Unknown",
+      "img": "afb/stupa.jpg",
+      "id": 0
+    },
+    {
+      "name": "Carved elephant tusk",
+      "date": "Late 1800s",
+      "sortDate":"late18",
+      "description": "Carved elephant tusk. The lower half is encircled with four dancing figures amongst scolling foliage. The upper half is carved with four standing Buddha figures. These are the four previous Buddhas of this era: Kassapa, Konagamanda, Kakusanda, and Gotama. There is another standing Buddha figure within the upper cagework, who represents Metteya (Maitreya, the future Buddha). The tusk is set on a once-painted, wooden lotus base atop a stepped and indented platform. Buddhists believe that time is cyclical, and in each round, which can last millions of years, a number of Buddhas arise. In the current cycle, there have already been four Buddhas, and one is yet to come. Commissioning sculptures of the Buddhas generates merit for the donor and promises better future rebirths.",
+      "type": "Sculpture",
+      "material": "Ivory and wood",
+      "place": "Burma",
+      "img": "afb/tusk.jpg",
+      "id": 1
+    },
+    {
+      "name": "Cosmology manuscript panel showing Himavanta Forest where Buddhas meditate",
+      "date": "Late 1800s",
+      "sortDate":"late18",
+      "description": "This Burmese manuscript displays the structure of the Buddhist universe... Parabaik (folded manuscript). Manuscript of locally-made paper within green paper outer covers. Mid to late 1800s. This is a cosmology manuscript providing a map of the Buddhist universe and describing the residents of each level. The higher beings are in the universe, the more spiritually advanced they are. One side shows the Heavens and Mount Meru down to the realm of the Asuras; the other side displays the human world with reference to Buddhas and the eight levels of Hell. The manuscript contains 42 folds, assembled in concertina fashion and has paintings and text on both sides. Openings provide both text in Burmese and Pali without illustrations. Topics represented are Lake Anottata, the four continents around Mount Meru, the domain of the elephants, the sixteen Buddhist lands, Mount Meru itself, the hells, and Himavanta forest.",
+      "type": "Painting",
+      "material": "Pigment on mulberry paper",
+      "place": "Mandalay, Burma",
+      "img": "afb/himavanta.jpg",
+      "id": 2
+    },
+    {
+      "name": "Cosmology manuscript panel showing the heavens",
+      "date": "Mid to late 1800s",
+      "sortDate":"late18",
+      "description": "Parabaik (folded manuscript). Manuscript of locally-made paper within green paper outer covers. Mid to late 1800s. This is a cosmology manuscript providing a map of the Buddhist universe and describing the residents of each level. The higher beings are in the universe, the more spiritually advanced they are. One side shows the Heavens and Mount Meru down to the realm of the Asuras; the other side displays the human world with reference to Buddhas and the eight levels of Hell. The manuscript contains 42 folds, assembled in concertina fashion and has paintings and text on both sides. Openings provide both text in Burmese and Pali without illustrations. Topics represented are Lake Anottata, the four continents around Mount Meru, the domain of the elephants, the sixteen Buddhist lands, Mount Meru itself, the hells, and Himavanta forest.",
+      "type": "Painting",
+      "material": "Pigment on mulberry paper",
+      "place": "Unknown",
+      "img": "afb/heavens.jpg",
+      "id": 3
+    },
+    {
+      "name": "Cosmology manuscript panel showing one of the hells",
+      "date": "Mid to late 1800s",
+      "sortDate":"late18",
+      "description": "Parabaik (folded manuscript). Manuscript of locally-made paper within green paper outer covers. Mid to late 1800s. This is a cosmology manuscript providing a map of the Buddhist universe and describing the residents of each level. The higher beings are in the universe, the more spiritually advanced they are. One side shows the Heavens and Mount Meru down to the realm of the Asuras; the other side displays the human world with reference to Buddhas and the eight levels of Hell. The manuscript contains 42 folds, assembled in concertina fashion and has paintings and text on both sides. Openings provide both text in Burmese and Pali without illustrations. Topics represented are Lake Anottata, the four continents around Mount Meru, the domain of the elephants, the sixteen Buddhist lands, Mount Meru itself, the hells, and Himavanta forest.",
+      "type": "Painting",
+      "material": "Pigment on mulberry paper",
+      "place": "Unknown",
+      "img": "afb/hells.jpg",
+      "id": 4
+    },
+    {
+      "name": "Cosmology manuscript panel showing the Buddha eating by Lake Anottata",
+      "date": "Late 1800s",
+      "sortDate":"late18",
+      "description": "Parabaik (folded manuscript). Manuscript of locally-made paper within green paper outer covers. Mid to late 1800s. This is a cosmology manuscript providing a map of the Buddhist universe and describing the residents of each level. The higher beings are in the universe, the more spiritually advanced they are. One side shows the Heavens and Mount Meru down to the realm of the Asuras; the other side displays the human world with reference to Buddhas and the eight levels of Hell. The manuscript contains 42 folds, assembled in concertina fashion and has paintings and text on both sides. Openings provide both text in Burmese and Pali without illustrations. Topics represented are Lake Anottata, the four continents around Mount Meru, the domain of the elephants, the sixteen Buddhist lands, Mount Meru itself, the hells, and Himavanta forest.",
+      "type": "Painting",
+      "material": "Pigment on mulberry paper",
+      "place": "Mandalay, Burma",
+      "img": "afb/eating.jpg",
+      "id": 5
+    },
+    {
+      "name": "The Buddha's footprint",
+      "date": "1700s to early 1800s",
+      "sortDate":"late17",
+      "description": "Sculpture. Large impression of the Buddha's foot decorated in low relief with auspicious emblems, shells and a lotus medallion, all gilt and now somewhat abraded. Surrounded by damaged mythical serpents (nagas) whose heads were once inserted in square mortices at the top. The serpent bodies were incised with scales and then overlaid with coloured glass set in bitumen; now mostly missing. Made of carved stone. In Myanmar, footprints are honoured as the main image in a temple or are placed to point towards a main image. They mark the Buddha’s presence and demonstrate the importance of pilgrimage. The 108 symbols on the footprint include such imagery as major cosmological features of the universe and royal symbols, indicating the totality of the Buddha’s teachings and the connection between Buddhism and kingship.",
+      "type": "Sculpture",
+      "material": "Stone, glass, bitumen, and gilding",
+      "place": "Burma",
+      "img": "afb/footprint.jpg",
+      "id": 6
+    },
+    {
+      "name": "The god Indra (Sakka)",
+      "date": "1700s",
+      "sortDate":"early17",
+      "description": "Carved stone, standing crowned figure of the god Sakka (Indra), Lord of Tavatimsa Heaven, recording people’s good and bad deeds on a tablet. Made of gilded and lacquered stone inlaid with glass set in thayo (lacquer putty). The god Indra keeps a record of each being’s good and bad deeds, which determines the quality of a person’s future lives. Images of Indra became popular in the 1700s, and modern examples are still placed at the entrances of religious sites today.",
+      "type": "Sculpture",
+      "material": "Sandstone with lacquer, gilding, and glass inlays",
+      "place": "Burma",
+      "img": "afb/indra.jpg",
+      "id": 7
+    },
+    {
+      "name": "Gotama Buddha in the gesture of Enlightenment",
+      "date": "1700s",
+      "sortDate":"early17",
+      "description": "Figure of Buddha. Made of gilded and lacquered marble. Carved. The Buddha is seated in the gesture of enlightenment (bhumisparsa mudra), where he touches the ground, usually with his right hand, to call the earth goddess to witness his worthiness to become a Buddha. This image shows the Buddha on the night of his awakening. When challenged by Mara, he demonstrated his worthiness to become enlightened by touching the ground and calling the Earth Goddess to witness his good deeds. Mara fled before the evidence, leaving the Buddha-to-be to become the enlightened Gotama at dawn.",
+      "type": "Sculpture",
+      "material": "Marble with lacquer and gliding",
+      "place": "Burma",
+      "img": "afb/gotama.jpg",
+      "id": 8
+    },
+    {
+      "name": "Manuscript chest with scenes from the life of Gotama Buddha",
+      "date": "Late 1800s to early 1900s",
+      "sortDate":"early19",
+      "description": "Teak chest (sadaik) with thayo (lacquer putty) low relief decoration applied on the front and sides. Lacquered with some gilding remaining. The scenes depicted are from the life of the Buddha. Front top shows the prince departing from the palace. Front centre is of Prince Siddhartha taking a last look at his sleeping wife, Yasodhara, and son, Rahula. On the right side of the chest are three of the four sights - a monk, an old man, and a sick man. The left side shows Siddhartha cutting off his hair while the groom looks on. Indra collects the hair which floats in mid air. Below is the Anoma River. At the bottom the prince's horse and groom sadly begin their return to the city.",
+      "type": "Engraving",
+      "material": "Wood, lacquer putty (thayo), lacquer, and gilding",
+      "place": "Burma",
+      "img": "afb/chest.jpg",
+      "id": 9
+    },
+    {
+      "name": "Religious tablet",
+      "date": "1100s to 1200s",
+      "sortDate":"late11",
+      "description": "Religious plaque representing scenes from the Buddha's life around a main Buddha image. A central Buddha making the gesture of enlightenment is surrounded clockwise by the Parileyyaka retreat, the First Sermon (with two monks), the taming of the Nalagiri elephant, the final nirvana, the descent from Tavatimsa Heaven, the twin miracle, and the birth. Buddhist creed inscription at the bottom. Made of impressed terracotta. Religious tablets are made by pressing clay into a pre-formed mould. Such tablets were popular religious objects produced at pilgrimage sites for over a millennium. This example displays the eight great events from the Buddha’s life, including his awakening when he became a Buddha at the centre. Clockwise from the left are the Parileyyaka retreat, his first sermon, the taming of the Nalagiri elephant, his final nirvana, the descent from Tavatimsa Heaven, the twin miracles, and his birth from his mother’s hip. People from all classes of society purchased and donated such tablets in order to improve their levels of merit.",
+      "type": "Sculpture",
+      "material": "Terracotta",
+      "place": "Pagan, Mandalay Division, Burma",
+      "img": "afb/tablet.jpg",
+      "id": 10
+    },
+    {
+      "name": "Lacquer offering vessel (hsun-ok)",
+      "date": "Early 1900s",
+      "sortDate":"early19",
+      "description": "A black lacquer, hsun-ok offering vessel from the town of Kyaukka that is made in six parts of woven and coiled bamboo. It has been lacquered black on the outside and red on the inside. Containers like this one are used to offer food to monks on special occasions and at festivals. Images in wall paintings show that similar vessels have been in use for more than two centuries.",
+      "type": "Vessel",
+      "material": "Lacquer, wood and bamboo",
+      "place": "Probably Shan State, eastern Myanmar",
+      "img": "afb/vessel.jpg",
+      "id": 11
+    },
+    {
+      "name": "Standing Buddha with medicinal fruit",
+      "date": "Mid to late 1800s",
+      "sortDate":"late18",
+      "description": "Figure of Buddha standing on a sacred lotus flower with both shoulders covered in an ornate robe. With his right hand the Buddha offers practitioners the medicinal myrobalan fruit to cure their spiritual woes. The left hand holds his robes. A flower design marks the middle of the decorated band between the forehead and the hair. The robes, glass inlays, and the standing posture are typical of Buddha sculptures of the mid to late 1800s. Made of wood, lacquered, gilded and set with coloured mirror-glass. Standing Buddhas often offer the myrobalan (a medicinal fruit) to devotees as a symbolic cure for their spiritual woes. Such images became particularly popular in the 1800s.",
+      "type": "Sculpture",
+      "material": "Wood, glass, lacquer, and gilding",
+      "place": "Burma",
+      "img": "afb/standing.jpg",
+      "id": 12
+    }
+  ]
+}

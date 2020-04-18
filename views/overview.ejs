@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Museum - Overview</title>
+  </head>
+  <header>
+    <%- include ("navigation") -%>
+    <link rel="stylesheet" href="/css/overview.css">
+  </header>
+  <body>
+    <div class="button-group filter-by-button-group">
+      <button class="button is-checked" data-filter="*">All</button>
+      <button class="button" data-filter="late11">1100s to 1200s</button>
+      <button class="button" data-filter="early17">Early 1700s</button>
+      <button class="button" data-filter="late17">1700s to early  1800s</button>
+      <button class="button" data-filter="late18">Mid to late 1800s</button>
+      <button class="button" data-filter="early19">Late 1800s to early 1900s</button>
+      <button class="button" data-filter="Sculpture">Sculptures</button>
+      <button class="button" data-filter="Painting">Paintings</button>
+      <button class="button" data-filter="Vessel">Vessels</button>
+      <button class="button" data-filter="Engraving">Engravings</button>
+      <div class="searchField">
+        <input type="text" id="inputTekst" value="">
+        <button class= "button zoek" type="submit" >Search</button>
+      </div>
+    </div>
+    <div class="grid">
+      <% artstuff.forEach(function(artworks) { %>
+        <div class="element-item <%=artworks.sortDate%> <%=artworks.type%>">
+          <a href="detail/<%=artworks.id%>"><img src="<%=artworks.img %>" alt="<%=artworks.description%>"></a>
+          <h3 class="name"><%= artworks.name %> </h3>
+          <p class="symbol"><%= artworks.date %></p>
+        </div>
+      <% }); %>
+    </div>
+      <p class="zoekresultaat"></p>
+    </div>
+
+  </body>
+  <%- include ("footer") -%>
+  <script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
+  <script src="js/script.js"></script>
+</html>
